@@ -51,12 +51,57 @@ Learning Tools
 Coursework and Grading
 ----------------------
 
-| COURSEWORK | GRADE WEIGHTS |
-| --- | --- |
-| Individual: Classroom participation and preparation, case study, and professionalism | 30% |
-| Group project updates: Milestone assignments, weekly progress reports to project mentor | 30% |
-| Final project: Presentation and report | 30% |
-| Teamwork: Three team surveys, reporting contributions and feedback, communication, coordination, and professionalism | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSEWORK
+{{< thclose >}}
+{{< thopen >}}
+GRADE WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual: Classroom participation and preparation, case study, and professionalism
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group project updates: Milestone assignments, weekly progress reports to project mentor
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project: Presentation and report
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Teamwork: Three team surveys, reporting contributions and feedback, communication, coordination, and professionalism
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------
