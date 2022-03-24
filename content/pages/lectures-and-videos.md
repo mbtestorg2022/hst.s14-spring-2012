@@ -274,7 +274,7 @@ Development of standard terminology for global maternal and child health
 Jonathan Payne (Partners in Health)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture slides (PDF)]({{< baseurl >}}/resources/mithst_s14s12_lec10_1205)
+[Lecture slides (PDF)]({{< baseurl >}}/resources/mithst_s14s12_lec10_1205)
 {{< tdclose >}}
 {{< tdopen >}}
 2012  

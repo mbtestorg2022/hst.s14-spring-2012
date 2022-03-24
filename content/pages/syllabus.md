@@ -112,4 +112,4 @@ Each class session is organized around a particular case, and/or required readin
 
 Buntin, M. B., et al. "[The Benefits Of Health Information Technology: A Review Of The Recent Literature Shows Predominantly Positive Results](http://dx.doi.org/10.1377/hlthaff.2011.0178)." _Health Affairs_ 30, no. 3 (2011): 464–71.
 
-Marczak, J., et al. ["Addressing Systemic Challenges to Social Inclusion in Health Care: Initiatives of the Private Sector." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.as-coa.org/files/FordFnd_Health.pdf) _Americas Society_. Whitepaper, March 7, 2011.
+Marczak, J., et al. ["Addressing Systemic Challenges to Social Inclusion in Health Care: Initiatives of the Private Sector." (PDF)](http://www.as-coa.org/files/FordFnd_Health.pdf) _Americas Society_. Whitepaper, March 7, 2011.
