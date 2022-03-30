@@ -4,6 +4,7 @@ description: 'This resource contains information regarding Designing a Public He
   Software Framework: Porting OpenMRS data to i2b2'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/01f52906e7101bc8ca8e1639dd90a896_MITHST_S14S12_proj_i2b2.pdf
 file_type: application/pdf
+parent_uid: 4c05b1e1-5d21-c3a0-2fff-e498c5e40b32
 resourcetype: Document
 title: 'Final paper: Designing a Public Health Software Framework: Porting OpenMRS
   data to i2b2'
